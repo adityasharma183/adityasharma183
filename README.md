@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404eb3429.gif" alt="Coder Banner" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Aditya+Sharma;Full+Stack+Developer+from+India;Building+AI+Tools+%26+Web+Apps;React+%7C+Node+%7C+Three.js+%7C+MongoDB" alt="Typing SVG" />
 </h1>
@@ -9,7 +13,6 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/Aditya%20Sharma-Full%20Stack%20Developer-orange?style=for-the-badge&logo=github" alt="Aditya Sharma Badge" />
 </h2>
-
 ---
 
 ### 🔭 I’m currently working on  
