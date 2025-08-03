@@ -1,95 +1,84 @@
+<!-- ───────────────────────── Animated Header with “Capsule‑Render” ───────────────────────── -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404eb3429.gif" alt="Coder Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?text=Aditya+Sharma&animation=fadeIn&type=waving&color=gradient&height=100" alt="Aditya Sharma" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Aditya+Sharma;Full+Stack+Developer+from+India;Building+AI+Tools+%26+Web+Apps;React+%7C+Node+%7C+Three.js+%7C+MongoDB" alt="Typing SVG" />
-</h1>
-
+<!-- ───────────────────────── Welcome & Typing (using readme‑typing-svg) ───────────────────────── -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Young Developer Animation" />
-</p>
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Aditya%20Sharma-Full%20Stack%20Developer-orange?style=for-the-badge&logo=github" alt="Aditya Sharma Badge" />
-</h2>
----
-
-### 🔭 I’m currently working on  
-🚀 **AI Based Resume-Analyzer**
-
-### 🌱 I’m currently learning  
-🧠 **Three.js** & **Framer Motion**
-
-### 🧰 Tech Stack  
-**MERN | REST APIs | JWT | Tailwind | Git | MongoDB | Three.js**
-
-### 💬 Ask me about  
-💻 **React, Node.js, Express, MongoDB**
-
-### 👨‍💻 Portfolio  
-📎 [Visit My Portfolio](https://adityasharma183-portfolio.netlify.app/)
-
-### 📫 Reach me at  
-✉️ **adityaa.sharma183@gmail.com**
-
-### ⚡ Fun fact  
-*I’m not your typical CS nerd — I code to create, learn, and explore!*
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-sharma-7a602131b-gec-ldce-comp-dte/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aditya_sharma183" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/nitinmandotra183/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <!-- lines: Working on; Learning; Ask me about …, centered, multicolor background -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Working+on+AI‑Resume+Analyzer;Learning+Three.js+%26+Framer+Motion;Ask+me+about+React,+Node.js,+MongoDB&center=true&width=500&background=000000" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 AI Based Resume‑Analyzer  
+Bring the **resume evaluation process** into the future with a Machine‑Learning‑powered app. Catch it in action below:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-</p>
+[![Resume Analyzer Demo](assets/resume-analyzer-demo.gif)](https://adityasharma183-portfolio.netlify.app/)
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma183&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma183&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharma183&layout=compact&theme=radical" width="50%" />
-</p>
+## 🌱 I’m currently learning  
+- **Three.js** — for 3D experiences in the browser  
+- **Framer Motion** — for high-performance page transitions
 
 ---
 
-### ✨ Quote I Believe In
+## 🧰 Tech Stack  
 
-> “Stay curious. Keep building. Embrace the bugs — they make you better.”
+```yaml
+MERN:     MongoDB · Express · React · Node.js  
+APIs:     REST · JSON Web Tokens  
+Frontend: Tailwind CSS · Framer Motion · Three.js  
+Others:   Git · Docker · JWT
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/> <img src="https://kenwheeler.github.io/slick/slick/slick-logo.svg" alt="JWT" width="40"/> </p>
+💬 Ask me about
+React & Redux hooks, context API
+
+Building back‑end APIs with Express & JWT
+
+Designing database schemas on MongoDB
+
+Animations & visuals with Three.js
+
+🌐 Portfolio
+💻 Visit My Live Portfolio
+
+📫 Connect with Me
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![LeetCode][leetcode-shield]][leetcode-url]
+
+📊 GitHub Stats & Timeline
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityasharma183&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma183&theme=radical" alt="GitHub Streaks" /> </p>
+📌 Shields (badges)
+<a href="https://www.linkedin.com/in/aditya-sharma-7a602131b-gec-ldce-comp-dte/"><img src="https://img.shields.io/badge/LinkedIn−%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/aditya_sharma183"><img src="https://img.shields.io/badge/Instagram−%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://leetcode.com/nitinmandotra183/"><img src="https://img.shields.io/badge/LeetCode−%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
+yaml
+Copy
+Edit
+
+### ✅ How this works:
 
 ---
+
+### 1. **Animated header (“Capsule‑Render”)**  
+The `<img …>` link at the top displays **big, typing‑style text** (“Aditya Sharma”) with fade‑in and waving effects autotuned — powered by Capsule‑Render: an easy web API you can plug into GitHub README. :contentReference[oaicite:19]{index=19}
+
+---
+
+### 2. **Typewriter‑style SVG lines**  
+Using **[readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)**, the lines “Working on …; Learning …; Ask me about …” animate one after another. You can customize speed, font, color, alignment via URL parameters. :contentReference[oaicite:20]{index=20}
+
+---
+
+### 3. **Demo GIF embedding**  
+Place your rendered GIF in the repo at `assets/resume-analyzer-demo.gif`, then use the Markdown:
+
+```md
+[![Demo …](assets/…)](YOUR_PORTFOLIO_LINK)
 
