@@ -1,104 +1,92 @@
-<!-- ───────────────────── Header ► Animated SVG with Pulse & Rotation ───────────────────── -->
-<div align="center">
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-  <defs>
-    <radialGradient id="grad" fx="50%" fy="50%" r="60%">
-      <stop offset="0%" stop-color="#00B4D8">
-        <animate attributeName="stop-color"
-                 values="#00B4D8;#90E0EF;#00B4D8"
-                 dur="4s"
-                 repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0077B6">
-        <animate attributeName="stop-color"
-                 values="#0077B6;#03045E;#0077B6"
-                 dur="4s"
-                 repeatCount="indefinite"/>
-      </stop>
-    </radialGradient>
-  </defs>
-  <g transform="translate(100,100)">
-    <circle r="70" stroke="url(#grad)" stroke-width="8" fill="none" opacity="0.7">
-      <animateTransform attributeName="transform"
-                        type="rotate"
-                        from="0"
-                        to="360"
-                        dur="8s"
-                        repeatCount="indefinite"/>
-    </circle>
-    <circle r="40" stroke="#0077B6" stroke-opacity="0.8" stroke-width="4" fill="none">
-      <animate attributeName="r"
-               values="36;44;36"
-               dur="1.6s"
-               repeatCount="indefinite"/>
-      <animate attributeName="stroke-opacity"
-               values="0.3;1;0.3"
-               dur="1.6s"
-               repeatCount="indefinite"/>
-    </circle>
-    <text text-anchor="middle" dy="0.35em" fill="#03045E" font-size="36" font-family="sans-serif" font-weight="bold">AS</text>
-  </g>
-</svg>
-</div>
-
-<!-- ───────────────────── Animated Typing Lines (SVG + SMIL) ───────────────────── -->
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="90">
-  <text x="50%" y="24" text-anchor="middle" fill="#03045E" font-size="20" font-family="sans-serif">
-    <tspan id="line1" opacity="0">Working on AI‑based Resume‑Analyzer</tspan>
-    <tspan id="line2" dy="1.4em" x="50%" opacity="0">Learning Three.js & Framer Motion</tspan>
-    <tspan id="line3" dy="2.8em" x="50%" opacity="0">Ask about React · Node.js · MongoDB</tspan>
-    <animate xlink:href="#line1"
-             attributeName="opacity"
-             values="0;1;1;0"
-             keyTimes="0;0.2;0.7;1"
-             dur="6s"
-             begin="0s"
-             repeatCount="indefinite"/>
-    <animate xlink:href="#line2"
-             attributeName="opacity"
-             values="0;0;1;1;0;0"
-             keyTimes="0;0.2;0.4;0.7;0.9;1"
-             dur="6s"
-             begin="0s"
-             repeatCount="indefinite"/>
-    <animate xlink:href="#line3"
-             attributeName="opacity"
-             values="0;0;0;1;1;0"
-             keyTimes="0;0.3;0.5;0.8;0.9;1"
-             dur="6s"
-             begin="0s"
-             repeatCount="indefinite"/>
-  </text>
-</svg>
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404eb3429.gif" alt="Coder Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Aditya+Sharma;Full+Stack+Developer+from+India;Building+AI+Tools+%26+Web+Apps;React+%7C+Node+%7C+Three.js+%7C+MongoDB" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Young Developer Animation" />
+</p>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Aditya%20Sharma-Full%20Stack%20Developer-orange?style=for-the-badge&logo=github" alt="Aditya Sharma Badge" />
+</h2>
+---
+
+### 🔭 I’m currently working on  
+🚀 *AI Based Resume-Analyzer*
+
+### 🌱 I’m currently learning  
+🧠 *Three.js* & *Framer Motion*
+
+### 🧰 Tech Stack  
+*MERN | REST APIs | JWT | Tailwind | Git | MongoDB | Three.js*
+
+### 💬 Ask me about  
+💻 *React, Node.js, Express, MongoDB*
+
+### 👨‍💻 Portfolio  
+📎 [Visit My Portfolio](https://adityasharma183-portfolio.netlify.app/)
+
+### 📫 Reach me at  
+✉️ *adityaa.sharma183@gmail.com*
+
+### ⚡ Fun fact  
+I’m not your typical CS nerd — I code to create, learn, and explore!
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-sharma-7a602131b-gec-ldce-comp-dte/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aditya_sharma183" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/nitinmandotra183/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🔍 AI‑Based Resume Analyzer  
-ML-powered tool that analyzes and scores resumes instantly.  
-**Visit Portfolio:** [adityasharma183‑portfolio.netlify.app](https://adityasharma183-portfolio.netlify.app/)
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+</p>
 
 ---
 
-## 🌱 Learning  
-- Three.js for browser-based 3D visuals  
-- Framer Motion for smooth UI transitions and micro‑animations
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasharma183&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharma183&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharma183&layout=compact&theme=radical" width="50%" />
+</p>
 
 ---
 
-## 🧰 Tech Stack  
+### ✨ Quote I Believe In
 
-```text
-MERN  •  REST APIs  •  JWT  •  Tailwind CSS  •  Git  •  MongoDB  •  Three.js  •  Framer Motion
-
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/motionui/motionui-plain.svg" alt="Framer Motion" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40"/> </p>💬 Ask me about
-React hooks & Redux · REST API design with Express & JWT · Database modelling with MongoDB · Browser animations with Three.js and Framer Motion
-
-🌐 Where to Find Me
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LeetCode][leetcode-shield]][leetcode-url]
-
-⚡ Motto
-“Stay curious. Keep building. Embrace the bugs — they make you better.”
+	⁠“Stay curious. Keep building. Embrace the bugs — they make you better.”
