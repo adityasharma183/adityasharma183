@@ -3,13 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/42/0c/e1420c5d1f9bb66b6dfb45105a9b62b2.gif" width="400" alt="Cool Boy Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Young Developer Animation" />
 </p>
 
----
-
 <h2 align="center">
-  <img src="https://svgshare.com/i/142p.svg" alt="Aditya Sharma" height="60"/>
+  <img src="https://img.shields.io/badge/Aditya%20Sharma-Full%20Stack%20Developer-orange?style=for-the-badge&logo=github" alt="Aditya Sharma Badge" />
 </h2>
 
 ---
